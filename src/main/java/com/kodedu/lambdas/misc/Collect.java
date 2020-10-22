@@ -8,9 +8,9 @@ import java.util.stream.Stream;
 public class Collect {
 
     public static void main(String[] args) {
-        Stream.of(1, 2, 3, 4, 5).collect(ArrayList::new, ArrayList::add, ArrayList::addAll);
+        // Stream.of(1, 2, 3, 4, 5).collect(ArrayList::new, ArrayList::add, ArrayList::addAll);
 
-        List<Integer> list = Stream.of(1, 2)
+        List<Integer> list = Stream.of(1, 2, 3, 4, 5)
                 .parallel() // Comment this to see difference
                 .collect(() -> {
                     MyList myList = new MyList();
