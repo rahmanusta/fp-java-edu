@@ -12,6 +12,10 @@ For example `Stream#collect` samples can be found in the 'collect' package.
 
 link:fp-java-slide.pdf[Slide - FP with Java]
 
+== JDK 15
+
+Download and use JDK 15 https://jdk.java.net/15/
+
 == Author
 
 Rahman Usta
