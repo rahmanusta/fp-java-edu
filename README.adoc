@@ -1,27 +1,17 @@
-== imperative package
+= Java Stream API and Functional Programming
 
-> Differences imperative, declarative, and declarative + FP
+Package descriptions can be found below
 
-== function package
+== Code samples
 
-> Lambda expressions & method reference
+Demos are separated by package name.
 
-== filter package
+For example `Stream#collect` samples can be found in the 'collect' package.
 
-> Stream API and using filters
+== Slide
 
-== map & flatmap package
+link:fp-java-slide.pdf[Slide - FP with Java]
 
-> Mapping/Transforming Stream data
+== Author
 
-== collect package
-
-> Collection Stream to other objects: List, Map, etc.
-
-== performance package
-
-> Some performance notes
-
-== cleancode package
-
-> How to use clean lambda
+Rahman Usta

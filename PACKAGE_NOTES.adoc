@@ -1,0 +1,31 @@
+= Java Stream API and Functional Programming
+
+Package descriptions can be found below:
+
+== imperative package
+
+> Differences imperative, declarative, and declarative + FP
+
+== function package
+
+> Lambda expressions & method reference
+
+== filter package
+
+> Stream API and using filters
+
+== map & flatmap package
+
+> Mapping/Transforming Stream data
+
+== collect package
+
+> Collection Stream to other objects: List, Map, etc.
+
+== performance package
+
+> Some performance notes
+
+== cleancode package
+
+> How to use clean lambda
