@@ -9,7 +9,7 @@ public class App {
 
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 
-        // Find the index of a number in the list
+        // Find the number if contained in the list
 
         // Imperative
         System.out.println(containsNumber(numbers, 5));
